@@ -1,0 +1,502 @@
+{
+ "schemaVersion": 1,
+ "lessons": [
+  {
+   "id": "nghiem-cam",
+   "title": "Những hành vi bị nghiêm cấm",
+   "icon": "block",
+   "color": "#C62828",
+   "summary": "Nhóm câu điểm liệt nhiều nhất. Nhớ kỹ để không bao giờ trượt vì những câu này.",
+   "sections": [
+    {
+     "heading": "Tuyệt đối không được",
+     "bullets": [
+      "Lái xe khi trong máu hoặc hơi thở có nồng độ cồn — dù chỉ một chút.",
+      "Lái xe khi trong cơ thể có ma túy, chất kích thích bị cấm.",
+      "Đua xe, tổ chức, cổ vũ đua xe trái phép; lạng lách, đánh võng, rú ga liên tục.",
+      "Cầm và dùng điện thoại khi xe đang chạy.",
+      "Bỏ trốn sau khi gây tai nạn, hoặc có điều kiện mà không cứu giúp người bị nạn."
+     ]
+    },
+    {
+     "heading": "Với xe và người lái",
+     "bullets": [
+      "Không giao xe cho người không đủ điều kiện lái (chưa đủ tuổi, không có bằng, bằng bị trừ hết điểm).",
+      "Không đưa xe không bảo đảm an toàn kỹ thuật, bảo vệ môi trường ra đường.",
+      "Không lắp thiết bị âm thanh, ánh sáng gây mất an toàn giao thông."
+     ]
+    },
+    {
+     "heading": "Mẹo nhớ",
+     "bullets": [
+      "Gặp câu hỏi 'hành vi nào bị cấm' mà có phương án 'Cả hai/Cả ba ý trên' thì đọc kỹ từng ý: nếu ý nào cũng là hành vi nguy hiểm thì chọn 'Cả … ý trên'."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     30,
+     32,
+     52,
+     197,
+     254
+    ]
+   },
+   "refs": [
+    {
+     "label": "Điều 9 khoản 2 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn."
+    },
+    {
+     "label": "Điều 9 khoản 3 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng."
+    },
+    {
+     "label": "Điều 9 khoản 5 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "5. Đua xe, tổ chức đua xe, xúi giục, giúp sức, cổ vũ đua xe trái phép; điều khiển phương tiện tham gia giao thông đường bộ lạng lách, đánh võng, rú ga liên tục."
+    },
+    {
+     "label": "Điều 9 khoản 6 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "6. Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ."
+    },
+    {
+     "label": "Điều 9 khoản 7 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "7. Giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện theo quy định của pháp luật để điều khiển xe tham gia giao thông đường bộ."
+    },
+    {
+     "label": "Điều 9 khoản 26 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "26. Bỏ trốn sau khi gây tai nạn giao thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ."
+    }
+   ]
+  },
+  {
+   "id": "nhuong-duong",
+   "title": "Nhường đường ở nơi giao nhau",
+   "icon": "alt_route",
+   "color": "#2E7D32",
+   "summary": "3 quy tắc nhường đường và thứ tự xe ưu tiên — nền tảng để giải sa hình.",
+   "sections": [
+    {
+     "heading": "3 quy tắc cần thuộc lòng",
+     "bullets": [
+      "Từ đường nhánh/đường không ưu tiên ra: nhường xe trên đường chính, đường ưu tiên từ BẤT KỲ hướng nào.",
+      "Nơi giao nhau KHÔNG có vòng xuyến: nhường xe đến từ bên PHẢI.",
+      "Nơi giao nhau CÓ vòng xuyến: nhường xe đến từ bên TRÁI (xe đang ở trong vòng xuyến)."
+     ]
+    },
+    {
+     "heading": "Xe ưu tiên đi trước (theo thứ tự)",
+     "bullets": [
+      "1. Xe chữa cháy đi làm nhiệm vụ.",
+      "2. Xe quân sự, công an, kiểm sát làm nhiệm vụ khẩn cấp; đoàn xe có Cảnh sát giao thông dẫn đường.",
+      "3. Xe cứu thương đi cấp cứu.",
+      "4. Xe hộ đê, xe cứu nạn, cứu hộ, khắc phục thiên tai, dịch bệnh.",
+      "5. Đoàn xe tang.",
+      "Gặp xe ưu tiên đang phát tín hiệu: giảm tốc độ, đi sát lề phải hoặc dừng lại nhường đường."
+     ]
+    },
+    {
+     "heading": "Cách giải sa hình",
+     "bullets": [
+      "Bước 1: xe ưu tiên đang làm nhiệm vụ đi trước.",
+      "Bước 2: xe trên đường chính/ưu tiên đi trước xe đường nhánh.",
+      "Bước 3: cùng cấp đường thì xét bên phải trống (không vòng xuyến).",
+      "Bước 4: cùng điều kiện thì xe rẽ phải, đi thẳng đi trước xe rẽ trái."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     91,
+     92,
+     93,
+     98,
+     253
+    ],
+    "chapter": 6
+   },
+   "refs": [
+    {
+     "label": "Điều 22 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây:\n1. Tại nơi đường giao nhau giữa đường không ưu tiên với đường ưu tiên hoặc giữa đường nhánh với đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới;\n2. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải;\n3. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên trái."
+    },
+    {
+     "label": "Điều 15 khoản 3 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "3. Khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác."
+    },
+    {
+     "label": "Điều 27 khoản 2 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "2. Xe ưu tiên được quyền đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo thứ tự ưu tiên từ trên xuống dưới như sau: a) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; b) Xe của lực lượng quân sự, công an, kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; c) Xe cứu thương đi làm nhiệm vụ cấp cứu; d) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đ) Đoàn xe tang."
+    },
+    {
+     "label": "Điều 27 khoản 5 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở."
+    }
+   ]
+  },
+  {
+   "id": "giam-toc",
+   "title": "Khi nào phải giảm tốc độ",
+   "icon": "speed",
+   "color": "#EF6C00",
+   "summary": "Luật liệt kê 13 tình huống phải quan sát, giảm tốc độ hoặc dừng lại.",
+   "sections": [
+    {
+     "heading": "Liên quan đến người",
+     "bullets": [
+      "Có người đi bộ, xe lăn đang qua đường hoặc có vạch đi bộ.",
+      "Gần trường học, bệnh viện, chợ, bến xe, khu đông dân cư, hiện trường tai nạn.",
+      "Điểm dừng xe có khách đang lên, xuống (ví dụ xe buýt đang đón khách).",
+      "Gặp đoàn người đi bộ, có vật nuôi trên đường."
+     ]
+    },
+    {
+     "heading": "Liên quan đến đường và thời tiết",
+     "bullets": [
+      "Đường hẹp, đường vòng, đèo dốc, nơi giao nhau, nơi giao cắt đường sắt.",
+      "Cầu, cống hẹp, đường ngầm, hầm.",
+      "Có biển cảnh báo nguy hiểm hoặc chướng ngại vật; tầm nhìn bị hạn chế.",
+      "Trời mưa, sương mù, khói bụi, đường trơn trượt, lầy lội."
+     ]
+    },
+    {
+     "heading": "Liên quan đến xe khác",
+     "bullets": [
+      "Tránh xe ngược chiều, cho xe sau vượt, xe phía trước xin đường.",
+      "Gặp xe ưu tiên, xe chở hàng siêu trường, siêu trọng, hàng nguy hiểm."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     34,
+     35,
+     90,
+     163,
+     165,
+     167,
+     198,
+     245
+    ]
+   },
+   "refs": [
+    {
+     "label": "Điều 12 khoản 3 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "3. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp sau đây: a) Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường; b) Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; c) Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế; d) Nơi đường bộ giao nhau cùng mức với đường bộ, đường bộ giao nhau cùng mức với đường sắt; đường hẹp, đường vòng, đường quanh co, đường đèo, dốc; đ) Nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ; e) Khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung đông người, khu vực đông dân cư, chợ, khu vực đang thi công trên đường bộ, hiện trường vụ tai nạn giao thông đường bộ; g) Có vật nuôi đi trên đường hoặc chăn thả ở ven đường; h) Tránh xe đi ngược chiều hoặc khi cho xe đi phía sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi cùng chiều phía trước; i) Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe; k) Gặp xe vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm; đoàn người đi bộ; l) Gặp xe ưu tiên; m) Điều kiện trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ; n) Khu vực đang tổ chức kiểm soát giao thông đường bộ."
+    }
+   ]
+  },
+  {
+   "id": "vuot-xe",
+   "title": "Vượt xe an toàn, đúng luật",
+   "icon": "fast_forward",
+   "color": "#1565C0",
+   "summary": "Vượt bên nào, báo hiệu ra sao và 10 trường hợp không được vượt.",
+   "sections": [
+    {
+     "heading": "Cách vượt",
+     "bullets": [
+      "Vượt bên TRÁI. Chỉ vượt bên phải khi xe trước đang rẽ trái hoặc xe chuyên dùng đang làm việc.",
+      "Xin vượt bằng nháy đèn chiếu sáng phía trước hoặc còi; trong đô thị từ 22h đến 5h chỉ được nháy đèn.",
+      "Chỉ vượt khi phía trước không có chướng ngại vật, không có xe ngược chiều, xe trước đã tránh về bên phải."
+     ]
+    },
+    {
+     "heading": "Không được vượt khi",
+     "bullets": [
+      "Trên cầu hẹp một làn; đường cong, đỉnh dốc tầm nhìn bị hạn chế.",
+      "Nơi đường giao nhau, nơi giao cắt đường sắt; trong hầm đường bộ.",
+      "Khi gặp xe ưu tiên; ở vạch đi bộ hoặc khi có người đi bộ, xe lăn qua đường.",
+      "Khi thời tiết hoặc mặt đường không bảo đảm an toàn."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     47,
+     48,
+     53,
+     90,
+     97,
+     98
+    ]
+   },
+   "refs": [
+    {
+     "label": "Điều 14 khoản 2 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được vượt về bên phải."
+    },
+    {
+     "label": "Điều 14 khoản 5 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn."
+    },
+    {
+     "label": "Điều 14 khoản 6 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "6. Không được vượt xe trong trường hợp sau đây: a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này; b) Trên cầu hẹp có một làn đường; c) Đường cong có tầm nhìn bị hạn chế; d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế; đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; g) Khi gặp xe ưu tiên; h) Ở phần đường dành cho người đi bộ qua đường; i) Khi có người đi bộ, xe lăn của người khuyết tật qua đường; k) Trong hầm đường bộ."
+    }
+   ]
+  },
+  {
+   "id": "xe-may",
+   "title": "Đi xe máy: được và không được",
+   "icon": "two_wheeler",
+   "color": "#6A1B9A",
+   "summary": "Quy định riêng cho người lái và người ngồi sau xe mô tô, xe gắn máy.",
+   "sections": [
+    {
+     "heading": "Phải làm",
+     "bullets": [
+      "Cả người lái và người ngồi sau đội mũ bảo hiểm đúng chuẩn, cài quai đúng cách.",
+      "Chỉ chở 1 người; được chở tối đa 2 người khi chở người bệnh đi cấp cứu, áp giải người vi phạm, trẻ em dưới 12 tuổi, người già yếu hoặc khuyết tật."
+     ]
+    },
+    {
+     "heading": "Người lái không được",
+     "bullets": [
+      "Đi dàn hàng ngang; đi vào phần đường của người đi bộ.",
+      "Dùng ô, thiết bị âm thanh (trừ máy trợ thính); buông cả hai tay; bốc đầu.",
+      "Kéo, đẩy xe khác, dắt vật nuôi, chở vật cồng kềnh; chở người đứng trên xe.",
+      "Ngồi lệch một bên, đứng/nằm lái xe, quay người ra sau, dùng chân chống quệt xuống đường."
+     ]
+    },
+    {
+     "heading": "Người ngồi sau không được",
+     "bullets": [
+      "Mang, vác vật cồng kềnh; dùng ô (kể cả khi mưa).",
+      "Bám, kéo, đẩy phương tiện khác; đứng trên yên, ngồi trên tay lái."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     70,
+     71,
+     72,
+     73,
+     74
+    ]
+   },
+   "refs": [
+    {
+     "label": "Điều 33 khoản 1 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "1. Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người: a) Chở người bệnh đi cấp cứu; b) Áp giải người có hành vi vi phạm pháp luật; c) Trẻ em dưới 12 tuổi; d) Người già yếu hoặc người khuyết tật."
+    },
+    {
+     "label": "Điều 33 khoản 2 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "2. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách."
+    },
+    {
+     "label": "Điều 33 khoản 3 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "3. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi sau đây: a) Đi xe dàn hàng ngang; b) Đi xe vào phần đường dành cho người đi bộ và phương tiện khác; c) Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính; d) Buông cả hai tay; đi xe bằng một bánh đối với xe mô tô, xe gắn máy hai bánh; đi xe bằng hai bánh đối với xe mô tô, xe gắn máy ba bánh; đ) Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định; e) Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy; g) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ."
+    },
+    {
+     "label": "Điều 33 khoản 4 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây: a) Mang, vác vật cồng kềnh; b) Sử dụng ô; c) Bám, kéo hoặc đẩy các phương tiện khác; d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái; đ) Hành vi khác gây mất trật tự, an toàn giao thông đường bộ."
+    }
+   ]
+  },
+  {
+   "id": "lui-quay-dau",
+   "title": "Lùi xe, quay đầu, tránh xe",
+   "icon": "u_turn_left",
+   "color": "#00838F",
+   "summary": "Những nơi cấm lùi, cấm quay đầu và quy tắc tránh xe ngược chiều.",
+   "sections": [
+    {
+     "heading": "Lùi xe",
+     "bullets": [
+      "Quan sát hai bên và phía sau, có tín hiệu lùi, chỉ lùi khi an toàn.",
+      "Cấm lùi ở: đường một chiều, khu vực cấm dừng, vạch đi bộ, nơi giao nhau, giao cắt đường sắt, nơi tầm nhìn bị che khuất, trong hầm, trên cao tốc."
+     ]
+    },
+    {
+     "heading": "Quay đầu xe",
+     "bullets": [
+      "Cấm quay đầu ở: vạch đi bộ, trên cầu, đầu cầu, gầm cầu vượt, đường ngầm, giao cắt đường sắt, đường hẹp, đường dốc, đường cong khuất tầm nhìn, cao tốc, trong hầm, đường một chiều."
+     ]
+    },
+    {
+     "heading": "Tránh xe ngược chiều",
+     "bullets": [
+      "Giảm tốc độ và đi về bên phải theo chiều của mình.",
+      "Đường hẹp: xe gần chỗ tránh hơn phải vào tránh.",
+      "Xe xuống dốc nhường xe lên dốc; xe có chướng ngại vật nhường xe không có chướng ngại vật."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     55,
+     58,
+     85,
+     86,
+     87,
+     88,
+     89,
+     246
+    ]
+   },
+   "refs": [
+    {
+     "label": "Điều 15 khoản 4 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời."
+    },
+    {
+     "label": "Điều 16 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "1. Khi lùi xe, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát hai bên và phía sau xe, có tín hiệu lùi và chỉ lùi xe khi bảo đảm an toàn.\n2. Không được lùi xe ở đường một chiều, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ, trên đường cao tốc."
+    },
+    {
+     "label": "Điều 17 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "1. Trên đường không phân chia thành hai chiều xe chạy riêng biệt, hai xe đi ngược chiều tránh nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.\n2. Các trường hợp nhường đường khi tránh nhau bao gồm:\na) Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe đi ngược chiều;\nb) Xe xuống dốc phải nhường đường cho xe lên dốc;\nc) Xe có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật phía trước."
+    }
+   ]
+  },
+  {
+   "id": "bien-bao",
+   "title": "Nhận biết nhanh các nhóm biển báo",
+   "icon": "signpost",
+   "color": "#AD1457",
+   "summary": "Nhìn hình dạng và màu sắc là đoán được ý nghĩa biển — chìa khóa cho chương Báo hiệu đường bộ.",
+   "source": "Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (QCVN 41:2024/BGTVT)",
+   "sections": [
+    {
+     "heading": "5 nhóm biển chính",
+     "bullets": [
+      "Biển CẤM: hình tròn, viền đỏ, nền trắng, hình vẽ màu đen — báo điều không được làm.",
+      "Biển NGUY HIỂM và CẢNH BÁO: hình tam giác, viền đỏ, nền vàng, hình vẽ màu đen — báo nguy hiểm phía trước, phải giảm tốc và chú ý.",
+      "Biển HIỆU LỆNH: hình tròn, nền xanh lam, hình vẽ màu trắng — báo điều bắt buộc phải làm.",
+      "Biển CHỈ DẪN: hình vuông hoặc chữ nhật, nền xanh lam — chỉ hướng đi, thông tin cần biết.",
+      "Biển PHỤ: hình chữ nhật hoặc vuông, đặt dưới biển chính để bổ sung, giải thích."
+     ]
+    },
+    {
+     "heading": "Mẹo khi làm bài",
+     "bullets": [
+      "Câu hỏi 'Biển nào cấm…' thì tìm biển tròn viền đỏ; 'Biển nào báo nguy hiểm…' thì tìm biển tam giác.",
+      "Biển 'Hết…' (hết cấm, hết hạn chế) thường có vạch chéo màu đen hoặc xám.",
+      "Đọc kỹ hình vẽ trong biển: xe con, xe tải, mô tô… mỗi biển chỉ áp dụng cho loại xe được vẽ."
+     ]
+    }
+   ],
+   "practice": {
+    "chapter": 5
+   },
+   "refs": [
+    {
+     "label": "Điều 11 khoản 5 Luật Trật tự, an toàn giao thông đường bộ (hợp nhất, sửa đổi 2025)",
+     "quote": "5. Báo hiệu của biển báo hiệu đường bộ được quy định như sau: a) Biển báo cấm để biểu thị các điều cấm; b) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra; c) Biển hiệu lệnh để báo hiệu lệnh phải thi hành; d) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết; đ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn."
+    }
+   ]
+  },
+  {
+   "id": "toc-do",
+   "title": "Tốc độ và khoảng cách an toàn",
+   "icon": "speed",
+   "color": "#5D4037",
+   "summary": "Bảng tốc độ tối đa và khoảng cách an toàn — nhóm câu dễ nhầm số nhất.",
+   "sections": [
+    {
+     "heading": "Trong khu đông dân cư (mọi xe cơ giới)",
+     "bullets": [
+      "Đường đôi, đường một chiều có từ 2 làn xe cơ giới trở lên: 60 km/h.",
+      "Đường hai chiều, đường một chiều có 1 làn xe cơ giới: 50 km/h."
+     ]
+    },
+    {
+     "heading": "Ngoài khu đông dân cư (đường đôi / đường hai chiều)",
+     "bullets": [
+      "Xe đến 28 chỗ (trừ xe buýt), tải đến 3,5 tấn: 90 / 80 km/h.",
+      "Xe trên 28 chỗ (trừ xe buýt), tải trên 3,5 tấn (trừ xi téc): 80 / 70 km/h.",
+      "Xe buýt, đầu kéo sơ mi rơ moóc (trừ xi téc), xe mô tô, ô tô chuyên dùng: 70 / 60 km/h.",
+      "Ô tô kéo rơ moóc, kéo xe khác, xe trộn bê tông, xe xi téc: 60 / 50 km/h.",
+      "Mẹo: đường hai chiều/một làn luôn thấp hơn đường đôi 10 km/h."
+     ]
+    },
+    {
+     "heading": "Xe có mức riêng (mọi nơi, trừ cao tốc)",
+     "bullets": [
+      "Xe gắn máy, xe máy chuyên dùng: 40 km/h.",
+      "Xe chở hàng bốn bánh có gắn động cơ: 50 km/h; xe chở người bốn bánh có gắn động cơ: 30 km/h.",
+      "Đường cao tốc: tối đa 120 km/h, tối thiểu 60 km/h (theo biển báo trên từng tuyến)."
+     ]
+    },
+    {
+     "heading": "Khoảng cách an toàn với xe phía trước",
+     "bullets": [
+      "Đúng 60 km/h: 35 m.",
+      "Trên 60 đến 80 km/h: 55 m.",
+      "Trên 80 đến 100 km/h: 70 m.",
+      "Trên 100 đến 120 km/h: 100 m.",
+      "Dưới 60 km/h: tự giữ khoảng cách phù hợp với mật độ xe. Trời mưa, sương mù, đường trơn, đèo dốc phải giữ xa hơn."
+     ]
+    }
+   ],
+   "practice": {
+    "ids": [
+     144,
+     145,
+     146,
+     147,
+     148,
+     149,
+     150,
+     151,
+     152,
+     153,
+     154,
+     155,
+     156,
+     157,
+     158,
+     159,
+     160,
+     161,
+     162,
+     166
+    ]
+   },
+   "refs": [
+    {
+     "label": "Điều 6 Thông tư 38/2024/TT-BGTVT",
+     "quote": "1. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ trong khu vực đông dân cư Bảng 1 Loại xe cơ giới đường bộ Tốc độ khai thác tối đa (km/h) Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên Đường hai chiều; đường một chiều có một làn xe cơ giới Các loại xe cơ giới, trừ các xe được quy định tại Điều 7 và Điều 8 Thông tư này 60 50\n2. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ ngoài khu vực đông dân cư Bảng 2 Loại xe cơ giới đường bộ Tốc độ khai thác tối đa (km/h) Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên Đường hai chiều; đường một chiều có một làn xe cơ giới Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn 90 80 Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc) 80 70 Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động) 70 60 Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc) 60 50"
+    },
+    {
+     "label": "Điều 7 Thông tư 38/2024/TT-BGTVT",
+     "quote": "Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự khi tham gia giao thông, tốc độ khai thác tối đa là 40 km/h."
+    },
+    {
+     "label": "Điều 8 Thông tư 38/2024/TT-BGTVT",
+     "quote": "1. Xe chở người bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động, tốc độ khai thác tối đa là 30 km/h.\n2. Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động, tốc độ khai thác tối đa là 50 km/h."
+    },
+    {
+     "label": "Điều 9 khoản 2 Thông tư 38/2024/TT-BGTVT",
+     "quote": "2. Tốc độ khai thác tối đa cho phép trên đường cao tốc là 120 km/h."
+    },
+    {
+     "label": "Điều 9 khoản 3 Thông tư 38/2024/TT-BGTVT",
+     "quote": "3. Tốc độ khai thác tối thiểu cho phép trên đường cao tốc là 60 km/h. Trường hợp đường cao tốc có tốc độ thiết kế 60 km/h thì tốc độ khai thác tối thiểu thực hiện theo phương án tổ chức giao thông được cấp có thẩm quyền phê duyệt."
+    },
+    {
+     "label": "Điều 11 khoản 2 Thông tư 38/2024/TT-BGTVT",
+     "quote": "2. Khoảng cách an toàn giữa hai xe khi tham gia giao thông trên đường a) Trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, khoảng cách an toàn ứng với mỗi tốc độ được quy định như sau: Bảng 3 Tốc độ lưu hành (V km/h) Khoảng cách an toàn (m) V = 60 35 60 < V ≤ 80 55 80 < V ≤ 100 70 100 < V ≤ 120 100 Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe, người điều khiển xe máy chuyên dùng phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông. b) Trong điều kiện trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn lớn hơn trị số ghi trên biển báo hoặc trị số được quy định tại điểm a khoản này."
+    }
+   ]
+  }
+ ]
+}

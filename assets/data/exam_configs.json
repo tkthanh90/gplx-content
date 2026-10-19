@@ -1,0 +1,613 @@
+{
+  "schemaVersion": 2,
+  "rules": {
+    "basis": "Luật TTATGT đường bộ 2024 (Điều 57), Thông tư 12/2025/TT-BCA, Công văn 2262/CSGT-P5",
+    "note": "Cấu trúc đề theo mục II Công văn 2262/CSGT-P5 (áp dụng đến hết 28/02/2027). Thời gian và số câu đạt theo phần mềm sát hạch hiện hành (báo chí công bố)."
+  },
+  "groups": [
+    {
+      "id": "moto",
+      "title": "Xe máy",
+      "subtitle": "Mô tô 2 bánh, 3 bánh",
+      "icon": "moto",
+      "color": "#2E7D32",
+      "classes": [
+        "A1",
+        "A",
+        "B1"
+      ]
+    },
+    {
+      "id": "car",
+      "title": "Ô tô con",
+      "subtitle": "Xe đến 8 chỗ, bán tải, tải nhẹ",
+      "icon": "car",
+      "color": "#1565C0",
+      "classes": [
+        "B"
+      ]
+    },
+    {
+      "id": "truck",
+      "title": "Ô tô tải",
+      "subtitle": "Xe tải trên 3,5 tấn",
+      "icon": "truck",
+      "color": "#E65100",
+      "classes": [
+        "C1",
+        "C"
+      ]
+    },
+    {
+      "id": "bus",
+      "title": "Ô tô khách",
+      "subtitle": "Xe chở người trên 8 chỗ",
+      "icon": "bus",
+      "color": "#6A1B9A",
+      "classes": [
+        "D1",
+        "D2",
+        "D"
+      ]
+    },
+    {
+      "id": "trailer",
+      "title": "Đầu kéo, kéo rơ moóc",
+      "subtitle": "Container, xe kéo rơ moóc trên 750 kg",
+      "icon": "trailer",
+      "color": "#00838F",
+      "classes": [
+        "BE",
+        "C1E",
+        "CE",
+        "D1E",
+        "D2E",
+        "DE"
+      ]
+    }
+  ],
+  "sectionTemplates": {
+    "moto": [
+      {
+        "label": "Quy định chung, quy tắc giao thông",
+        "chapters": [
+          1
+        ],
+        "count": 8
+      },
+      {
+        "label": "Tình huống mất an toàn (điểm liệt)",
+        "critical": true,
+        "count": 1
+      },
+      {
+        "label": "Văn hóa, đạo đức người lái xe",
+        "chapters": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "label": "Kỹ thuật lái xe / cấu tạo, sửa chữa",
+        "chapters": [
+          3,
+          4
+        ],
+        "count": 1
+      },
+      {
+        "label": "Báo hiệu đường bộ",
+        "chapters": [
+          5
+        ],
+        "count": 8
+      },
+      {
+        "label": "Sa hình",
+        "chapters": [
+          6
+        ],
+        "count": 6
+      }
+    ],
+    "B": [
+      {
+        "label": "Quy định chung, quy tắc giao thông",
+        "chapters": [
+          1
+        ],
+        "count": 8
+      },
+      {
+        "label": "Tình huống mất an toàn (điểm liệt)",
+        "critical": true,
+        "count": 1
+      },
+      {
+        "label": "Văn hóa, đạo đức, PCCC, cứu hộ",
+        "chapters": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "label": "Kỹ thuật lái xe",
+        "chapters": [
+          3
+        ],
+        "count": 1
+      },
+      {
+        "label": "Cấu tạo và sửa chữa",
+        "chapters": [
+          4
+        ],
+        "count": 1
+      },
+      {
+        "label": "Báo hiệu đường bộ",
+        "chapters": [
+          5
+        ],
+        "count": 9
+      },
+      {
+        "label": "Sa hình",
+        "chapters": [
+          6
+        ],
+        "count": 9
+      }
+    ],
+    "C1": [
+      {
+        "label": "Quy định chung, quy tắc giao thông",
+        "chapters": [
+          1
+        ],
+        "count": 10
+      },
+      {
+        "label": "Tình huống mất an toàn (điểm liệt)",
+        "critical": true,
+        "count": 1
+      },
+      {
+        "label": "Văn hóa, đạo đức, PCCC, cứu hộ",
+        "chapters": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "label": "Kỹ thuật lái xe",
+        "chapters": [
+          3
+        ],
+        "count": 2
+      },
+      {
+        "label": "Cấu tạo và sửa chữa",
+        "chapters": [
+          4
+        ],
+        "count": 1
+      },
+      {
+        "label": "Báo hiệu đường bộ",
+        "chapters": [
+          5
+        ],
+        "count": 10
+      },
+      {
+        "label": "Sa hình",
+        "chapters": [
+          6
+        ],
+        "count": 10
+      }
+    ],
+    "C": [
+      {
+        "label": "Quy định chung, quy tắc giao thông",
+        "chapters": [
+          1
+        ],
+        "count": 10
+      },
+      {
+        "label": "Tình huống mất an toàn (điểm liệt)",
+        "critical": true,
+        "count": 1
+      },
+      {
+        "label": "Văn hóa, đạo đức, PCCC, cứu hộ",
+        "chapters": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "label": "Kỹ thuật lái xe",
+        "chapters": [
+          3
+        ],
+        "count": 2
+      },
+      {
+        "label": "Cấu tạo và sửa chữa",
+        "chapters": [
+          4
+        ],
+        "count": 1
+      },
+      {
+        "label": "Báo hiệu đường bộ",
+        "chapters": [
+          5
+        ],
+        "count": 14
+      },
+      {
+        "label": "Sa hình",
+        "chapters": [
+          6
+        ],
+        "count": 11
+      }
+    ],
+    "heavy": [
+      {
+        "label": "Quy định chung, quy tắc giao thông",
+        "chapters": [
+          1
+        ],
+        "count": 10
+      },
+      {
+        "label": "Tình huống mất an toàn (điểm liệt)",
+        "critical": true,
+        "count": 1
+      },
+      {
+        "label": "Văn hóa, đạo đức, PCCC, cứu hộ",
+        "chapters": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "label": "Kỹ thuật lái xe",
+        "chapters": [
+          3
+        ],
+        "count": 2
+      },
+      {
+        "label": "Cấu tạo và sửa chữa",
+        "chapters": [
+          4
+        ],
+        "count": 1
+      },
+      {
+        "label": "Báo hiệu đường bộ",
+        "chapters": [
+          5
+        ],
+        "count": 16
+      },
+      {
+        "label": "Sa hình",
+        "chapters": [
+          6
+        ],
+        "count": 14
+      }
+    ]
+  },
+  "classes": [
+    {
+      "code": "A1",
+      "title": "Xe máy đến 125 cm³",
+      "name": "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm³ hoặc công suất động cơ điện đến 11 kW.",
+      "examples": [
+        "Xe số, xe ga phổ thông",
+        "Xe máy điện"
+      ],
+      "questionCount": 25,
+      "durationMinutes": 19,
+      "passScore": 21,
+      "verified": true,
+      "sections": "moto"
+    },
+    {
+      "code": "A",
+      "title": "Mô tô trên 125 cm³",
+      "name": "Xe mô tô hai bánh có dung tích xi-lanh trên 125 cm³ hoặc công suất động cơ điện trên 11 kW và các loại xe của hạng A1.",
+      "examples": [
+        "Xe phân khối lớn",
+        "Xe máy điện công suất lớn"
+      ],
+      "questionCount": 25,
+      "durationMinutes": 19,
+      "passScore": 23,
+      "verified": true,
+      "sections": "moto"
+    },
+    {
+      "code": "B1",
+      "title": "Mô tô ba bánh",
+      "name": "Xe mô tô ba bánh và các loại xe của hạng A1.",
+      "examples": [
+        "Xe ba bánh chở hàng",
+        "Xe ba bánh cho người khuyết tật"
+      ],
+      "questionCount": 25,
+      "durationMinutes": 19,
+      "passScore": 23,
+      "verified": true,
+      "sections": "moto"
+    },
+    {
+      "code": "B",
+      "title": "Ô tô đến 8 chỗ, tải đến 3,5 tấn",
+      "name": "Xe ô tô chở người đến 08 chỗ (không kể chỗ người lái); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg; các loại xe trên kéo rơ moóc đến 750 kg.",
+      "examples": [
+        "Ô tô con 4–7 chỗ",
+        "Xe bán tải",
+        "Xe tải nhẹ"
+      ],
+      "questionCount": 30,
+      "durationMinutes": 20,
+      "passScore": 27,
+      "verified": true,
+      "sections": "B"
+    },
+    {
+      "code": "C1",
+      "title": "Xe tải 3,5 – 7,5 tấn",
+      "name": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; kéo rơ moóc đến 750 kg; các loại xe của hạng B.",
+      "examples": [
+        "Xe tải trung",
+        "Xe chuyên dùng cỡ vừa"
+      ],
+      "questionCount": 35,
+      "durationMinutes": 22,
+      "passScore": 32,
+      "verified": true,
+      "sections": "C1"
+    },
+    {
+      "code": "C",
+      "title": "Xe tải trên 7,5 tấn",
+      "name": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; kéo rơ moóc đến 750 kg; các loại xe của hạng B và C1.",
+      "examples": [
+        "Xe tải nặng",
+        "Xe ben, xe bồn"
+      ],
+      "questionCount": 40,
+      "durationMinutes": 24,
+      "passScore": 36,
+      "verified": true,
+      "sections": "C"
+    },
+    {
+      "code": "D1",
+      "title": "Xe khách 9 – 16 chỗ",
+      "name": "Xe ô tô chở người trên 08 chỗ đến 16 chỗ (không kể chỗ người lái); kéo rơ moóc đến 750 kg; các loại xe của hạng B, C1, C.",
+      "examples": [
+        "Xe 16 chỗ"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "D2",
+      "title": "Xe khách 17 – 29 chỗ",
+      "name": "Xe ô tô chở người trên 16 chỗ đến 29 chỗ (không kể chỗ người lái); kéo rơ moóc đến 750 kg; các loại xe của hạng B, C1, C, D1.",
+      "examples": [
+        "Xe 29 chỗ"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "D",
+      "title": "Xe khách trên 29 chỗ",
+      "name": "Xe ô tô chở người trên 29 chỗ (không kể chỗ người lái); xe ô tô chở người giường nằm; kéo rơ moóc đến 750 kg; các loại xe của hạng B, C1, C, D1, D2.",
+      "examples": [
+        "Xe khách 45 chỗ",
+        "Xe giường nằm"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "BE",
+      "title": "Ô tô hạng B kéo rơ moóc",
+      "name": "Các loại xe ô tô của hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
+      "examples": [
+        "Ô tô con kéo rơ moóc du lịch"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "C1E",
+      "title": "Xe tải C1 kéo rơ moóc",
+      "name": "Các loại xe ô tô của hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
+      "examples": [
+        "Xe tải trung kéo rơ moóc"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "CE",
+      "title": "Đầu kéo container, tải C kéo rơ moóc",
+      "name": "Các loại xe ô tô của hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc.",
+      "examples": [
+        "Xe đầu kéo container",
+        "Xe tải nặng kéo rơ moóc"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "D1E",
+      "title": "Xe khách D1 kéo rơ moóc",
+      "name": "Các loại xe ô tô của hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
+      "examples": [
+        "Xe 16 chỗ kéo rơ moóc"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "D2E",
+      "title": "Xe khách D2 kéo rơ moóc",
+      "name": "Các loại xe ô tô của hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
+      "examples": [
+        "Xe 29 chỗ kéo rơ moóc"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    },
+    {
+      "code": "DE",
+      "title": "Xe khách D kéo rơ moóc, nối toa",
+      "name": "Các loại xe ô tô của hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.",
+      "examples": [
+        "Xe buýt nối toa"
+      ],
+      "questionCount": 45,
+      "durationMinutes": 26,
+      "passScore": 41,
+      "verified": true,
+      "sections": "heavy"
+    }
+  ],
+  "tt108": {
+    "effective": "2027-03-01",
+    "basis": "Thông tư 108/2026/TT-BCA: khoản 2 Điều 41 (áp dụng từ 01/3/2027), phần A các Phụ lục I–V",
+    "note": "Số câu, thời gian, điểm đạt theo Thông tư 108/2026/TT-BCA. Phần công nhận kết quả chỉ quy định điểm đạt tối thiểu, không quy định câu điểm liệt. Cục CSGT chưa công bố bộ câu hỏi và cách chia câu theo chương cho đề mới, nên app tạm chia đề theo tỉ lệ số câu mỗi chương của bộ 600 câu hiện hành.",
+    "classes": {
+      "A1": {
+        "questionCount": 40,
+        "durationMinutes": 27,
+        "passScore": 36,
+        "appendix": "PL1"
+      },
+      "A": {
+        "questionCount": 40,
+        "durationMinutes": 27,
+        "passScore": 36,
+        "appendix": "PL1"
+      },
+      "B1": {
+        "questionCount": 50,
+        "durationMinutes": 33,
+        "passScore": 45,
+        "appendix": "PL2"
+      },
+      "B": {
+        "questionCount": 50,
+        "durationMinutes": 33,
+        "passScore": 45,
+        "appendix": "PL3"
+      },
+      "C1": {
+        "questionCount": 60,
+        "durationMinutes": 40,
+        "passScore": 54,
+        "appendix": "PL3"
+      },
+      "C": {
+        "questionCount": 70,
+        "durationMinutes": 47,
+        "passScore": 63,
+        "appendix": "PL3"
+      },
+      "D1": {
+        "questionCount": 80,
+        "durationMinutes": 53,
+        "passScore": 72,
+        "appendix": "PL3"
+      },
+      "D2": {
+        "questionCount": 80,
+        "durationMinutes": 53,
+        "passScore": 72,
+        "appendix": "PL3"
+      },
+      "D": {
+        "questionCount": 80,
+        "durationMinutes": 53,
+        "passScore": 72,
+        "appendix": "PL3"
+      },
+      "BE": {
+        "questionCount": 90,
+        "durationMinutes": 60,
+        "passScore": 81,
+        "appendix": "PL4"
+      },
+      "C1E": {
+        "questionCount": 90,
+        "durationMinutes": 60,
+        "passScore": 81,
+        "appendix": "PL5"
+      },
+      "CE": {
+        "questionCount": 90,
+        "durationMinutes": 60,
+        "passScore": 81,
+        "appendix": "PL5"
+      },
+      "D1E": {
+        "questionCount": 90,
+        "durationMinutes": 60,
+        "passScore": 81,
+        "appendix": "PL4"
+      },
+      "D2E": {
+        "questionCount": 90,
+        "durationMinutes": 60,
+        "passScore": 81,
+        "appendix": "PL4"
+      },
+      "DE": {
+        "questionCount": 90,
+        "durationMinutes": 60,
+        "passScore": 81,
+        "appendix": "PL4"
+      }
+    }
+  }
+}
